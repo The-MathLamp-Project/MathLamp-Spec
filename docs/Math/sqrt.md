@@ -1,5 +1,5 @@
 ---
-title: sqrt()
+title: sqrt[]
 ---
 
 # Info
@@ -8,5 +8,5 @@ title: sqrt()
 Calculates the square root of a number
 
 # Usage
-code: `sqrt(4)`  
+code: `sqrt[4]`  
 math: $\sqrt 4$

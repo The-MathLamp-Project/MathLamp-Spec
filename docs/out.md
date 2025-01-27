@@ -1,5 +1,5 @@
 ---
-title: out()
+title: out[]
 ---
 
 # About
@@ -10,5 +10,5 @@ Prints the recived value to the console
 # Usage
 
 ```
-out(value) -> None
+out[value] -> None
 ```
