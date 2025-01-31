@@ -1,5 +1,5 @@
 site_name: The MathLamp Language Specification
-site_url: https://the-mathlamp-project.github.io/
+site_url: https://the-mathlamp-project.github.io/MathLamp-Spec
 theme: terminal
 markdown_extensions:
   - pymdownx.arithmatex:
